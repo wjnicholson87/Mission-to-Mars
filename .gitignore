@@ -1,3 +1,8 @@
+# Add config.py for API Token placement
+config.py
+# Add Practice file
+Practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
